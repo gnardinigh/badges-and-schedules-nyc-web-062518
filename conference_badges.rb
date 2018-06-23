@@ -8,7 +8,8 @@ def batch_badge_creator(array_of_names)
   counter=0
   
   array_of_names.each do |person|
-    name_tag_array[counter]=
+    name_tag_array[counter]=badge_maker(person)
+  end
     
     
 end
