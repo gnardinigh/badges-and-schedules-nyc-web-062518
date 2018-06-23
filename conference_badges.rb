@@ -11,5 +11,4 @@ def batch_badge_creator(array_of_names)
     name_tag_array[counter]=badge_maker(person)
   end
     return name_tag_array
-    
 end
