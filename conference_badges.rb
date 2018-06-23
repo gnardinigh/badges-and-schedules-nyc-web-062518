@@ -22,6 +22,5 @@ end
 def printer(array_of_names)
   a = batch_badge_creator(array_of_names)
   b = assign_rooms(array_of_names)
-  puts a.inspect
-  puts b.inspect
+  
 end
