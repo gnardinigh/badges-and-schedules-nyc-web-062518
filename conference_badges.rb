@@ -13,3 +13,6 @@ def batch_badge_creator(array_of_names)
     return name_tag_array
 end
 
+def assign_rooms(array_of_names)
+  
+end
